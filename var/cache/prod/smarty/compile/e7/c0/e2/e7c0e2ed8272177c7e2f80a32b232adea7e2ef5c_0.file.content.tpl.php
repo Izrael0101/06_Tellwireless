@@ -61,9 +61,9 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 </div>
 		<?php }?>
 	</div>
-	<!-- <div id="shop-img"><img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
+	<div id="shop-img"><img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
 preston-login@2x.png" alt="<?php echo $_smarty_tpl->tpl_vars['shop_name']->value;?>
-" width="69.5px" height="118.5px" /></div> -->
+" width="69.5px" height="118.5px" /></div>
 	<div class="flip-container">
 		<div class="flipper">
 			<div class="front front_login panel" <?php if ((isset($_smarty_tpl->tpl_vars['reset_token']->value)) && (isset($_smarty_tpl->tpl_vars['id_employee']->value))) {?>style="display:none;"<?php }?>>
