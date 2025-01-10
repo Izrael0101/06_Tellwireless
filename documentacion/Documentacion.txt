@@ -1,0 +1,26 @@
+
+
+1.Lo que se busca hacer es que se pueda conectar al API de  SysCom
+2.Identificar la mejor manera de control ya sea por un aplicacion desarrollada, o algun flujo de trabajo que pueda actualizar los valores de SysCom tanto para el Ecommers y el CRM (Si es necesario se puede cambiar a opciones open source para su mejor administracion, tomar encuenta esa migracion de informacion del CRM y del Ecommers).
+3.Se buscan alternativas en la nube o de terceros que puedan comunicarse entre si, debido a que el cliente no tiene un servidor.
+
+Con todo esto genera una documentacion
+
+Se desconoce en que hosting se encuentra alojado el ecommers se cobra alrededor de 2800 por año
+Se usa wordpress, y se esta administrando productos y precios de manera manual, si realiza las ventas y usa el plugin woocomerce la URL: es la siguiente
+
+URL eCommers
+https://tellwireless.com/mi-cuenta/
+
+
+Usa el Ubiquiti UISP - CRM para la gestion de los productos y los clientes y todo lo que conyeba, se desconoce el precio que se paga, tambien en la nube o directamente desde la pagina oficial URL:
+
+Url Ubiquiti CRM:
+https://account.ui.com/login?innerRedirect=%2F
+
+
+Se necesita solicitar el acceso a SysCom que es el proveedor de productos
+
+API de syscom
+https://developers.syscom.mx
+
